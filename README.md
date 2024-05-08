@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-[Link demo](https://user-management-1.vercel.app/)
+
+Demo: [User-management](https://user-management-1.vercel.app/)
 
 ## Available Scripts
 
